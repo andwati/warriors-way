@@ -4,12 +4,12 @@
 
 ### Core Web Security Concepts
 
-- HTTP/HTTPS, status codes, methods
-- Cookies, sessions, and token-based auth
-- Same-Origin Policy (SOP)
-- Cross-Origin Resource Sharing (CORS)
-- Content Security Policy (CSP)
-- Secure HTTP headers (HSTS, X-Frame-Options, etc.)
+- [ ] HTTP/HTTPS, status codes, methods
+- [ ] Cookies, sessions, and token-based auth
+- [ ] Same-Origin Policy (SOP)
+- [ ] Cross-Origin Resource Sharing (CORS)
+- [ ] Content Security Policy (CSP)
+- [ ] Secure HTTP headers (HSTS, X-Frame-Options, etc.)
 
 ### OWASP Top 10 (2021)
 
